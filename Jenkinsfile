@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'echo 'Hello Build 2 🚀'!'
+                echo 'echo 'HELLO FROM GITHUB JENKINSFILE ✅'!'
             }
         }
     }
