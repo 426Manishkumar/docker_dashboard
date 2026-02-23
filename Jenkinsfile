@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'echo 'HELLO FROM GITHUB JENKINSFILE ✅'!'
+                echo 'this new jenkins + docker dashboard!'
             }
         }
     }
