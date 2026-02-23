@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Pipeline triggered successfully from manish GitHub!'
+                echo 'echo 'Hello Build 2 🚀'!'
             }
         }
     }
