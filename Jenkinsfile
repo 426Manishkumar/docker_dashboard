@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'this new jenkins + docker dashboard!'
+                echo 'this new jenkins + docker ec2 dashboard!'
             }
         }
     }
